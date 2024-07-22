@@ -1,0 +1,28 @@
+{
+  "name": "lec-3",
+  "version": "1.0.0",
+  "description": "React js",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash7269/Learning-ReactJS.git"
+  },
+  "keywords": [],
+  "author": "AKASH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash7269/Learning-ReactJS/issues"
+  },
+  "homepage": "https://github.com/akash7269/Learning-ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
